@@ -12,7 +12,7 @@ Custom data preprocessing and model evaluation functions.
 Installation:
 To get started with Web-Mining, clone this repository and install the required dependencies.
 
-git clone https://github.com/yourusername/Web-Mining.git
+git clone https://github.com/Ashshashank/Web-Mining.git
 cd Web-Mining
 pip install -r requirements.txt
 
